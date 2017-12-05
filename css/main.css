@@ -1,0 +1,114 @@
+/* =========================== */
+/*      HOME      */
+/* =========================== */
+
+.image-fpo,
+.img-bg-floating-port  {
+  background-image: url(../image/bg/homepage_projects_large_screen_2.png);
+  }
+
+/* =========================== */
+/*      GLOBAL      */
+/* =========================== */
+
+.icon-scroll-chevron-text {
+/*  margin-top: 175px;*/
+  margin-left: -110px;
+}
+
+.img-bg-contact-4  {
+  background-image: url(../image/contact/bg2.jpg);
+}
+
+.brand-icon-001-inverse {
+  background-image: url(../image/linkedin-white.svg);
+}
+
+.brand-icon-002-inverse {
+  background-image: url(../image/twitter-white.svg);
+}
+
+.brand-icon-003-inverse {
+  background-image: url(../image/github-white.svg);
+}
+
+.brand-icon-004-inverse {
+  background-image: url(../image/facebook-white.svg);
+}
+
+
+/* =========================== */
+/*      LOGOS      */
+/* =========================== */
+
+.image-iac  {
+  background-image: url(../image/awards/IAC_logo.png);
+  }
+
+.img-bg-webawards {
+  background-image: url(../image/luxury/web-awards.png);
+}
+
+.img-bg-fwa  {
+  background-image: url(../image/awards/expereal/logo-fwa.png);
+}
+
+.img-bg-mck  {
+  background-image: url(../image/enterprise/mck-logo.png);
+}
+
+.img-bg-mck-2  {
+  background-image: url(../image/enterprise/mck-logo-2.gif);
+}
+
+.img-bg-mck-3  {
+  background-image: url(../image/enterprise/mck-logo-3.jpg);
+}
+
+.img-bg-amex  {
+  background-image: url(../image/enterprise/amex-logo.png);
+}
+
+.img-bg-pwc  {
+  background-image: url(../image/enterprise/pwc-logo.gif);
+}
+
+.img-bg-ipg  {
+  background-image: url(../image/enterprise/IPG-logo.png);
+}
+
+.img-bg-gucci  {
+  background-image: url(../image/enterprise/gucci-logo.png);
+}
+
+.img-bg-hess  {
+  background-image: url(../image/enterprise/hess-logo.png);
+}
+
+.img-bg-human  {
+  background-image: url(../image/human_logo_2.svg);
+}
+
+.img-bg-human-ko  {
+  background-image: url(../image/human_logo_2_ko.svg);
+}
+
+.img-bg-shape  {
+  background-image: url(../image/logos/pr/shape_logo.png);
+}
+
+.img-bg-tc  {
+  background-image: url(../image/logos/pr/tech_crunch_logo.png);
+}
+
+.img-bg-fastco  {
+  background-image: url(../image/logos/pr/fast_company_logo.png);
+}
+
+/* =========================== */
+/*      NOVATION      */
+/* =========================== */
+
+.image-novation-book  {
+  background-image: url(../image/portfolio/novation/novation-book.png);
+  }

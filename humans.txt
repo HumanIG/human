@@ -1,0 +1,12 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# CREATOR
+
+    Jasen -- Designer + Developer -- @jasen0
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Evo Framework labelle.github.io/evolution
+    99% hand-coded
