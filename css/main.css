@@ -7,6 +7,76 @@
   background-image: url(../image/bg/homepage_projects_large_screen_2.png);
   }
 
+
+/* =========================== */
+/*      LOGO      */
+/* =========================== */
+
+
+// Rote words for HumanIG logo
+
+.rotate-text-style {
+  display: block;
+  position: relative;
+  margin: 0;
+}
+
+.rotate-words {
+  display: inline-block;
+  padding-bottom: 1em;
+}
+
+.rotate-words span {
+  position: absolute;
+  opacity: 0;
+  transition: color 0.25s ease-in-out;
+  animation: rotateWord 12s ease infinite 0s;
+}
+.rotate-words span:nth-child(2) {
+  animation-delay: 2s;
+}
+.rotate-words span:nth-child(3) {
+  animation-delay: 4s;
+}
+.rotate-words span:nth-child(4) {
+  animation-delay: 6s;
+}
+.rotate-words span:nth-child(5) {
+  animation-delay: 8s;
+}
+.rotate-words span:nth-child(6) {
+  animation-delay: 10s;
+}
+
+@keyframes rotateWord {
+  0% {
+    opacity: 0;
+  }
+  2% {
+    opacity: 0;
+    transform: translateY(-0.25rem);
+  }
+  5% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  17% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  20% {
+    opacity: 0;
+    transform: translateY(0.25rem);
+  }
+  80% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+
 /* =========================== */
 /*      GLOBAL      */
 /* =========================== */
